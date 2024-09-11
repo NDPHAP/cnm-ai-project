@@ -3,7 +3,6 @@ Copyright (C) Microsoft Corporation. All rights reserved.
 
 Try the new cross-platform PowerShell https://aka.ms/pscore6
 
-(venv) PS D:\sep> setx OPENAI_API_KEY "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"
 
 SUCCESS: Specified value was saved.
 (venv) PS D:\sep> python main.py --price_dir "data/sample_price/preprocessed/" --tweet_dir "data/sample_tweet/raw/"
