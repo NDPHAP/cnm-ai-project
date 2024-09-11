@@ -16,7 +16,6 @@ pip install -r requirements.txt
 export OPENAI_API_KEY=<your key>
 ```
 
-## Usage
 3. Run a sample experiment:
 ```bash
 python main.py --price_dir "data/sample_price/preprocessed/" --tweet_dir "data/sample_tweet/raw/"
